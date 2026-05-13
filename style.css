@@ -47,3 +47,11 @@ nav a {
 nav a:hover {
     color: white;
 }
+section:hover {
+    box-shadow: 0 0 20px #00ff00;
+    transition: 0.3s;
+}
+
+body {
+    background-image: radial-gradient(#001100, black);
+}
